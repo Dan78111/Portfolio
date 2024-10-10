@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\ \ \r\n\ \ Author\:\ Natalie\ Watts\r\n\ \ Neumont\ Univ\r\n\ \ Date\:\ November\ 2012\r\n
+comment1.params=x\ y\ w\ h
+comment1.target=Rectangle(int,\ int,\ int,\ int)
+comment1.text=\ \ \ \ All\ values\ are\ measured\ in\ pixels\:\ \ x\ -\ horizonal\ location,\ \ y\ -\ vertical\ location,\ \ \r\n\ \ \ \ \ w\ -\ the\ width,\ \ h\ -\ the\ height,\ \ \ color\ -\ black\r\n
+comment2.params=x\ y\ w\ h\ c
+comment2.target=Rectangle(int,\ int,\ int,\ int,\ java.awt.Color)
+comment2.text=\ \ \ \ All\ values\ are\ measured\ in\ pixels\:\ \ x\ -\ horizonal\ location,\ \ y\ -\ vertical\ location,\ \ \r\n\ \ \ \ \ w\ -\ the\ width,\ \ h\ -\ the\ height,\ \ \ color\ -\ fill\ color\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getContainerColor()
+comment3.text=\ \ \ \r\n\ \ \ \ \ Returns\ the\ color\ of\ the\ container\r\n
+comment4.params=
+comment4.target=int\ getContainerX()
+comment5.params=
+comment5.target=int\ getContainerY()
+comment6.params=
+comment6.target=int\ getContainerWidth()
+comment7.params=
+comment7.target=int\ getContainerHeight()
+comment8.params=c
+comment8.target=void\ setContainerBackground(java.awt.Color)
+comment9.params=g
+comment9.target=void\ paint(java.awt.Graphics)
+comment9.text=\ \ \ \ This\ method\ draws\ a\ filled\ Rectangle\ and\ is\ called\ when\ the\ screen\ is\ refreshed\ or\ repainted\r\n
+numComments=10

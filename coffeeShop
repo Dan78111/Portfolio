@@ -1,0 +1,52 @@
+print("Hello!!!!!! Welcome to Dani's cafeteria!! My name is Daniel and I'm here to serve you")
+
+
+name = input("What's your name?\n")
+
+if name == "Ben" or name == "Patricia" or name == "Loki":
+    evil_status = input("Are you evil?(Yes/No)\n")
+    good_deeds = int(input("How many good deeds have you done today?\n"))
+    
+    if evil_status == "Yes" and good_deeds < 4:
+      print(" You're not welcome here " + name + ". Get out of here!!")
+      exit()
+    else:
+     print("Oh, so you're one of those good " + name + "s!! " + ". Come on in!!\n")
+else:
+ print("Hello " + name + ", thank you so much for coming in today\n\n")
+
+menu = "White Coffee, Latte, Green Coffee, Red Coffee, Pink Coffee, Frappucino"
+
+print(name +  ", What would you like to order?\n Here's our menu; \n\n" + menu)
+
+order=input()
+
+price = 8
+
+quantity = input("How many coffees would you like?\n")
+
+if order == "Frappucino":
+    price = 13
+elif order == "Black Coffee":
+    price = 3
+elif order == "White Coffee":
+    price = 8
+elif order == "Latte":
+    price = 10
+elif order == "Red Coffee":
+    price = 7
+elif order == "Pink Coffee":
+    price = 9
+elif order == "Green Coffee": 
+    price = 11
+else:
+    print ("Sorry, we don't have that here.")
+    price = 0
+    
+
+
+total = price * int(quantity)
+
+print("Your total is: $" + str(total))
+
+print("Sounds good " + name + ", we'll have your " + quantity + " "+ order + " ready for you in a moment")

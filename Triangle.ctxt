@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\ Triangle\ Supplier\ Class\ \r\n\ Author\:\ Sharon\ DeReamer\r\n\ Date\:\ November,\ 2008\r\n
+comment1.params=x\ y\ w\ h
+comment1.target=Triangle(int,\ int,\ int,\ int)
+comment1.text=\ post\:\ \ \ bounds\ are\ set\ to\ x\ \=\ x,\ y\ \=\ y,\ width\ \=\ w\ and\ height\ \=\ h\r\n\ \ \ \ \ \ \ \ \ \ and\ \ color\ is\ set\ to\ black\r\n\ \ \ \ \ \ \ \ \ \ and\ \ three\ corners\ of\ the\ triangle\ are\ set\ to\r\n\ \ \ \ \ \ \ \ \ \ (x,\ y),\ (x\ +\ w,\ y\ +\ h),\ and\ (x\ +\ w/2,\ y)\r\n
+comment2.params=x1\ y1\ x2\ y2\ x3\ y3
+comment2.target=Triangle(int,\ int,\ int,\ int,\ int,\ int)
+comment2.text=\ post\:\ \ \ bounds\ are\ set\ to\ x\ \=\ the\ lowest\ X\ passed\ in\ and\ y\ \=\ the\ lowest\ Y\ passed\ in\r\n\ \ \ \ \ \ \ \ \ \ Also\ w\ \=\ the\ highest\ x\ -\ the\ lowest\ x\ passed\ in\r\n\ \ \ \ \ \ \ \ \ \ and\ h\ \=\ the\ highest\ y\ passed\ in\ -\ the\ lowest\ y\ passed\ in\r\n\ \ \ \ \ \ \ \ \ \ The\ color\ is\ defaulted\ to\ black\r\n\ \ \ \ \ \ \ \ \ \ And\ the\ arrays\ are\ filled\ with\ the\ xs\ and\ ys\ respectively\r\n
+comment3.params=i1\ i2\ i3
+comment3.target=int\ lowest(int,\ int,\ int)
+comment3.text=\r\n\ post\:\ \ Takes\ three\ ints\ and\ returns\ the\ lowest\ of\ the\ three\r\n
+comment4.params=i1\ i2\ i3
+comment4.target=int\ highest(int,\ int,\ int)
+comment4.text=\r\n\ post\:\ \ Takes\ three\ ints\ and\ returns\ the\ highest\ of\ the\ three\r\n
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\ post\:\ \ \ this\ method\ draws\ a\ filled\ Triangle\r\n\ \ \ \ \ \ \ \ \ \ The\ corners\ of\ the\ triangle\ are\ determined\ the\ the\r\n\ \ \ \ \ \ \ \ \ \ array\ that\ holds\ the\ x\ values\ and\ the\ array\ that\r\n\ \ \ \ \ \ \ \ \ \ holds\ the\ y\ values\ of\ the\ three\ points.\r\n
+numComments=6

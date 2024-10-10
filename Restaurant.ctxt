@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Restaurant
+comment1.params=
+comment1.target=Restaurant()
+comment2.params=
+comment2.target=int\ find_table()
+comment3.params=e
+comment3.target=void\ empty_table(int)
+comment4.params=
+comment4.target=void\ print_tables()
+comment5.params=
+comment5.target=void\ getOrder()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

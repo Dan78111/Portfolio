@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ghost
+comment1.params=c
+comment1.target=void\ changeColor(java.awt.Color)
+comment2.params=sky\ x\ y
+comment2.target=Ghost(Rectangle,\ int,\ int)
+comment3.params=sky\ x\ y\ c
+comment3.target=Ghost(Rectangle,\ int,\ int,\ java.awt.Color)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Oval
+comment0.text=\ Oval\ Supplier\ Class\ \r\n\ Author\:\ David\ D.\ Riley\r\n\ Date\:\ April,\ 2004\r\n
+comment1.params=x\ y\ w\ h
+comment1.target=Oval(int,\ int,\ int,\ int)
+comment1.text=\ post\:\ \ \ getX()\ \=\=\ x\ \ and\ \ getY()\ \=\=\ y\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getWidth()\ \=\=\ w\ \ and\ getHeight()\ \=\=\ h\r\n\ \ \ \ \ \ \ \ \ \ and\ \ getBackground()\ \=\=\ Color.black\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\ post\:\ \ \ this\ method\ draws\ a\ filled\ Oval\r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ upper\ left\ corner\ of\ the\ bounding\ rectangle\ is\ (getX(),\ getY())\ \r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ oval's\ dimensions\ are\ getWidth()\ and\ getHeight()\r\n\ \ \ \ \ \ \ \ \ \ and\ \ the\ oval's\ color\ is\ getBackground()\r\n
+numComments=3

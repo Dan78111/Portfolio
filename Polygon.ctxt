@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Polygon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Polygon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ size\ n\ startAngle\ c
+comment1.target=Polygon(int,\ int,\ int,\ int,\ double,\ java.awt.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Polygon\r\n
+comment2.params=
+comment2.target=void\ makePolygon()
+numComments=3

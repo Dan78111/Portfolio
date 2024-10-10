@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Orderc
+comment1.params=
+comment1.target=Orderc()
+comment10.params=
+comment10.target=double\ getCost()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getSalads()
+comment3.params=
+comment3.target=int\ getDesserts()
+comment4.params=numSalads
+comment4.target=void\ setSalads(int)
+comment5.params=numDesserts
+comment5.target=void\ setDesserts(int)
+comment6.params=
+comment6.target=int\ getEntrees()
+comment7.params=entrees
+comment7.target=void\ addEntrees(java.lang.String)
+comment8.params=
+comment8.target=int\ getOrdercID()
+comment9.params=
+comment9.target=double\ calculateCost()
+numComments=12

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Order
+comment0.text=\r\n\ Finds\ total\ for\ customer\r\n\ CSIS\ 1400\r\n\ Ty,\ Elijah,\ Daniel\r\n\ 5/22/24\r\n
+comment1.params=
+comment1.target=Order()
+comment2.params=appetizer\ num_orders_A
+comment2.target=void\ set_appetizers(int,\ int)
+comment3.params=
+comment3.target=float\ get_appetizers()
+comment4.params=entree\ num_orders_E
+comment4.target=void\ set_entree(int,\ int)
+comment5.params=
+comment5.target=float\ get_entree()
+comment6.params=desert\ num_orders_D
+comment6.target=void\ set_desert(int,\ int)
+comment7.params=
+comment7.target=float\ get_desert()
+comment8.params=
+comment8.target=void\ total()
+numComments=9
